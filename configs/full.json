@@ -1,0 +1,1 @@
+{"seed": 42, "test_size": 0.2, "folds": 5, "development_rows": null, "svm_rows": 30000, "knn_rows": 40000, "embedding_rows": 4000, "trees": 50, "threads": 4}
