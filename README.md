@@ -47,6 +47,8 @@ Run each service in its own terminal after training.
 
 ## Architecture and experiment
 
+![Architecture Diagram](Architecture%20diagram.png)
+
 ```text
 validated CSV
   ├─ observed-data EDA
